@@ -3,7 +3,7 @@ name = "streamlit-langchain-app"
 version = "0.1.0"
 description = "Add your description here"
 authors = [
-    { name = "watanany", email = "watanabe.s@note.jp" }
+    { name = "watanany", email = "s1170087@gmail.com" }
 ]
 dependencies = [
     "streamlit>=1.29.0",
